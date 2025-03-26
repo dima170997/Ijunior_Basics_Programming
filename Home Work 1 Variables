@@ -1,0 +1,26 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace IJinior_1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string name = "Aleks";
+            byte age = 25;
+            long phone = 6545992258;
+            string adress = "Moscow";
+            decimal haveMoney = 1565565626.12m;
+            decimal needMoney = 1565565626.12m;
+            string target = "Крипта";
+            string clientDescription = "Пододозрительный";
+            bool male = true;
+            ushort born = 1969;
+            object zalog = "Дом";
+        }
+    }
+}
