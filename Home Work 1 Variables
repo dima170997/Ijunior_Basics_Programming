@@ -12,15 +12,18 @@ namespace IJinior_1
         {
             string name = "Aleks";
             byte age = 25;
-            long phone = 6545992258;
+            long phoneNumber = 6545992258;
             string adress = "Moscow";
-            decimal haveMoney = 1565565626.12m;
+            // haveMoney - утверждение сколько есть денегd
+            decimal personHaveMoney = 100.12m;
             decimal needMoney = 1565565626.12m;
             string target = "Крипта";
             string clientDescription = "Пододозрительный";
-            bool male = true;
-            ushort born = 1969;
+            bool isMan = true;
+            ushort birtYear = 1969;
             object zalog = "Дом";
+
+            //
         }
     }
 }
